@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "79e94b1f1d1790106fc0ecfdcd018fe6e03bac4898790877618f6a6580e33f7b"
+build_start_time: [1695661147, 479959011]
+build_end_time: [1695661147, 524138927]
+inputs:
+  "/Users/alishakhan/Desktop/School/FALL23/CS442/mp1-alisha-a-khan/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1695661123, 418040275]
+  "/Users/alishakhan/Desktop/School/FALL23/CS442/mp1-alisha-a-khan/macos/Runner/AppDelegate.swift": !private [1695592525, 921915054]
+  "/Users/alishakhan/Desktop/School/FALL23/CS442/mp1-alisha-a-khan/macos/Runner/MainFlutterWindow.swift": !private [1695592525, 927504539]
